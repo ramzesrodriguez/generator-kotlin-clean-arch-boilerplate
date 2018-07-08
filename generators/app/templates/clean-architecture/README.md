@@ -1,7 +1,7 @@
 Android Kotlin Clean Architecture
 =
 
-![Android Kotlin](https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/blob/master/sample_images/android_kotlin.png)
+![Android Kotlin](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/blob/master/sample_images/android_kotlin.png)
 
 [![CircleCI](https://circleci.com/gh/sanogueralorenzo/Android-Kotlin-Clean-Architecture/tree/master.svg?style=svg)](https://circleci.com/gh/sanogueralorenzo/Android-Kotlin-Clean-Architecture/tree/master) 
 
@@ -15,16 +15,16 @@ Main benefits:
 
 Some extra notes:
 - Simplified Clean Architecture approach .
-- For Continuous integration I've used [CircleCI](https://circleci.com/gh/sanogueralorenzo/Android-Kotlin-Clean-Architecture). You can check the the config file [here](https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/blob/master/.circleci/config.yml)
+- For Continuous integration I've used [CircleCI](https://circleci.com/gh/sanogueralorenzo/Android-Kotlin-Clean-Architecture). You can check the the config file [here](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/blob/master/.circleci/config.yml)
 - Each module will have its own readme to try and throw some light under how and why of the decisions.
 
 Shortcuts to the module Readme
 
-[Presentation Module](https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/blob/master/presentation/README.md)
+[Presentation Module](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/blob/master/presentation/README.md)
 
-[Domain Module](https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/blob/master/domain/README.md)
+[Domain Module](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/blob/master/domain/README.md)
 
-[Data Module](https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/blob/master/data/README.md)
+[Data Module](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/blob/master/data/README.md)
 
 Quick overview of the app
 -
@@ -55,20 +55,20 @@ Taping the user avatar from Screen1 or Screen2 (selected user) should take you t
 
 Clean Architecture
 -
-![Clean Architecture](https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/blob/master/sample_images/clean_architecture.png)
+![Clean Architecture](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/blob/master/sample_images/clean_architecture.png)
 
 Architectural approach
 -
-![Clean Architecture Layers](https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/blob/master/sample_images/clean_architecture_layers.png)
+![Clean Architecture Layers](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/blob/master/sample_images/clean_architecture_layers.png)
 
 Architectural reactive approach
 -
-![Clean Architecture Layers Details](https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/blob/master/sample_images/clean_architecture_layers_details.png)
+![Clean Architecture Layers Details](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/blob/master/sample_images/clean_architecture_layers_details.png)
 
 Discussions
 -
 
-Refer to the issues section: https://github.<%= appPackage %>/Android-Kotlin-Clean-Architecture/issues
+Refer to the issues section: https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture/issues
 
 Mentions
 -
