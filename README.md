@@ -1,4 +1,4 @@
-# generator-kotlin-android-boilerplate
+# generator-kotlin-clean-arch-boilerplate
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Yeoman Generator to create Android App using https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture.
 
