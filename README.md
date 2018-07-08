@@ -1,21 +1,21 @@
 # generator-kotlin-android-boilerplate
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Yeoman Generator to create Android App using https://github.com/Plastix/Kotlin-Android-Boilerplate.
+> Yeoman Generator to create Android App using https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture.
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-kotlin-android-boilerplate using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-kotlin-clean-arch-boilerplate using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-kotlin-android-boilerplate
+npm install -g generator-kotlin-clean-arch-boilerplate
 ```
 
 Then generate your new project:
 
 ```bash
 mkdir NewApp && cd $_
-yo kotlin-android-boilerplate
+yo generator-kotlin-clean-arch-boilerplate
 ```
 
 ## Getting To Know Yeoman
@@ -27,7 +27,7 @@ yo kotlin-android-boilerplate
 
 ## License
 
-MIT © [Ravindra Kumar](https://github.com/ravidsrk)
+MIT © [Ramzes Rodriguez](https://github.com/ramzesrodriguez)
 
 
 [npm-image]: https://badge.fury.io/js/generator-kotlin-android-boilerplate.svg
